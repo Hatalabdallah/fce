@@ -1,0 +1,6 @@
+opencv-python
+PyLMNN
+joblib
+pandas
+Flask
+numpy
